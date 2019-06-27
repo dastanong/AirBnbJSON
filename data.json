@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://a0.muscache.com/im/pictures/174db9b0-52f1-4611-a49e-50c160b80534.jpg?aki_policy=xx_large",
+        "name": "Little house in Paris, Loft, Canal",
+        "location": "Paris, France",
+        "currency": "RM",
+        "price": 2286,
+        "bedroom": 4,
+        "bed": 9,
+        "bathroom": 2,
+        "maxGuest": 11,
+        "shortDescription": "An ancient industrial building, converted into a loft. A lot of charm for family or friends vacations!",
+        "ownerName": "Segire",
+        "joinedDate": "May 2012",
+        "superhost": true,
+        "languages": ["English", "Francais"],
+        "responseRate": 94,
+        "checkinTime": "4pm",
+        "checkoutTime": "10am",
+        "smoking": false,
+        "noPets": true,
+        "amenities": [
+            {
+                "wifi": true,
+                "dryer": true,
+                "bathtub": false,
+                "kitchen": true
+            }
+        ],
+        "reviews": [
+            {
+                "accuracy": 5,
+                "location": 4,
+                "communication": 5,
+                "checkIn": 5,
+                "clealiness": 5,
+                "value": 4
+            }
+        ]
+    }
+]

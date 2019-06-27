@@ -1,7 +1,5 @@
 package com.example.airbnb.entities;
 
-import java.util.Date;
-
 public class Info {
     String imageUrl;
     String name;
